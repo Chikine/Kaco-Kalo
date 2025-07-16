@@ -1,0 +1,20 @@
+{
+  "name": "kaco-kalo",
+  "version": "1.0.0",
+  "description": "app for chat / call",
+  "license": "MIT",
+  "author": "chikine",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
